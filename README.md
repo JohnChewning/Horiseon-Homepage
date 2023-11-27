@@ -1,4 +1,5 @@
-Horiseon Homepage
+#Horiseon Homepage
+
 ##Description
 
 In this project, we refactored the code to our website to maximize accessibility to our Homepage. The goal was to restructure the elements so everything would fall in order and be more organized for future updates.
